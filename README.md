@@ -1,1 +1,1 @@
-# demojenkins-demo repository
+# demojenkins - tutorial
